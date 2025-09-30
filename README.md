@@ -32,14 +32,23 @@ This step ensures that later queries can quickly retrieve relevant chunks withou
 
 InsightRAG/
 │── app.py # Main Streamlit application
+
 │── ingest.py # Script for preprocessing and indexing documents
+
 │── users.db # SQLite database for storing user information
+
 │── requirements.txt # Python dependencies
+
 │── .env # Environment variables (API keys, configs)
+
 │── data/
+
 │ └── faiss_index/ # FAISS vector database files
+
 │── user_uploaded_files/ # Example uploaded PDFs
+
 │── image.webp # App logo/banner
+
 │── README.md # Project documentation
 
 
@@ -57,7 +66,9 @@ Add your API keys to the .env file (e.g., HuggingFace/OpenAI for embeddings and 
 python ingest.py
 ```
 This will process documents and store them into FAISS index.
+
 4. Run the application
 ```
 streamlit run app.py
 ```
+
