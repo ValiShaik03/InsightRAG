@@ -72,7 +72,14 @@ This will process documents and store them into FAISS index.
 ```
 streamlit run app.py
 ```
+📄 License <br>
+This project is licensed under the MIT License.
 
+🙋‍♂️ Contact <br> 
+Developed by ValiShaik – feel free to reach out!
+
+Email: mvali060103@gmail.com <br>
+GitHub: github.com/ValiShaik03 <br>
 
 
 
