@@ -49,8 +49,9 @@ InsightRAG/
 HomePage<br>
 ![InsightRAG Homepage](https://github.com/ValiShaik03/InsightRAG/blob/0838734dd0f410eae1b2e37220ed98bb384aa82c/outputs/Screenshot%202025-09-30%20165859.png) <br>
 SignUpPage
-![InsightRAG signuppage](./outputs/Screenshot 2025-09-30 165748.png)
-
+![InsightRAG signuppage](https://github.com/ValiShaik03/InsightRAG/blob/577f86ab6a17dba0360c398e7e582cc3e0d52b2d/outputs/Screenshot%202025-09-30%20165748.png)<br>
+ChatWithYourDocs
+![InsightRAG_ChatWithYourDocs](https://github.com/ValiShaik03/InsightRAG/blob/577f86ab6a17dba0360c398e7e582cc3e0d52b2d/outputs/Screenshot%202025-09-30%20165715.png)<br>
 
 ## How to Run
 
@@ -69,6 +70,7 @@ This will process documents and store them into FAISS index.
 ```
 streamlit run app.py
 ```
+
 
 
 
