@@ -44,6 +44,13 @@ InsightRAG/
 
 ```
 
+## 🖼️ Project Preview
+
+HomePage<br>
+![InsightRAG Homepage](outputs/Screenshot 2025-09-30 165859.png) <br>
+SignUpPage
+![InsightRAG signuppage](outputs/Screenshot 2025-09-30 165748.png)
+
 
 ## How to Run
 
@@ -62,5 +69,6 @@ This will process documents and store them into FAISS index.
 ```
 streamlit run app.py
 ```
+
 
 
