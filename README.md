@@ -79,9 +79,4 @@ This project is licensed under the MIT License.
 Developed by ValiShaik – feel free to reach out!
 
 Email: mvali060103@gmail.com <br>
-GitHub: github.com/ValiShaik03 <br>
-
-
-
-
-
+GitHub: github.com/ValiShaik03
