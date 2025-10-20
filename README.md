@@ -60,6 +60,7 @@ ChatWithYourDocsOutput
 1. **Install dependencies**
    ```bash
    pip install -r requirements.txt
+   ```
 2. Set environment variables
 Add your API keys to the .env file (e.g., HuggingFace/OpenAI for embeddings and LLM)
 
@@ -81,6 +82,7 @@ Developed by ValiShaik – feel free to reach out!
 
 Email: mvali060103@gmail.com <br>
 GitHub: [github.com/ValiShaik03](https://github.com/ValiShaik03)
+
 
 
 
